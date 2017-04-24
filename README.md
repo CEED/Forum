@@ -1,4 +1,4 @@
-# CEED public forum
+# CEED Public Forum
 
 This repository is a user forum for the [ECP](http://exascaleproject.org) co-design Center for Efficient Exascale Discretizations.
 
