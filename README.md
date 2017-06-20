@@ -8,4 +8,4 @@ Please use the [issue tracker](https://github.com/ceed/contact/issues) to post q
 
 You can also email us directly at ceed-support@llnl.gov.
 
-More information about CEED can be found on its website: [ceed-website]().
+More information about CEED can be found on its website: [ceed-website](http://ceed.exascaleproject.org).
