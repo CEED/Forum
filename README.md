@@ -6,6 +6,6 @@ This repository is a user forum for the [Exascale Computing Project (ECP)](http:
 
 Please use the [issue tracker](https://github.com/ceed/contact/issues) to post questions or comments.
 
-You can also email us directly at ceed-support@llnl.gov.
+You can also email us directly at ceed-users@llnl.gov.
 
 More information about CEED can be found on its website: [ceed.exascaleproject.org](http://ceed.exascaleproject.org).
